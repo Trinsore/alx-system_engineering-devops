@@ -1,0 +1,3 @@
+#!/bin/bash
+echo $() ~echo $ grep -0 ":/" !wc + 1
+
